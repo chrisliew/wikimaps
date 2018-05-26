@@ -2,7 +2,7 @@
 
 ## :round_pushpin: Summary :round_pushpin:
 
-WikiMaps is a maps application built using Javascript, Express, and Knex for the database.  In this application users can edit and contribute customized maps.  Like the name implies, it's like a Wikipedia for maps!  
+WikiMaps is a maps application built around 3 different Google Maps API using Javascript, Express, and Knex for the database.  In this application users can edit and contribute customized maps.  As the name implies, it's like a Wikipedia for maps!  
 
 ## Screenshots
 !["Main page"](https://github.com/chrisliew/wikimaps/blob/master/Untitled.png)
