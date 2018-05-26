@@ -24,22 +24,22 @@ WikiMaps is a maps application that users can edit and contribute customized map
 
 ## Dependencies
 
-*Bcrypt 1.0.2
-*Body-parser 1.15.2 or above
-*Connect-ensure-login 0.1.1 or above
-*Dotenv 2.0.0 or above
-*ejs 2.4.1 or above
-*Express 4.13.4 or above
-*Express-session 1.15.4 or above
-*Knex 0.11.10 or above
-*Knex-logger 0.1.0 or above
-*Morgan 1.7.0 or above
-*Node 5.10.x or above
-*NPM 3.8.x or above
-*Passport 0.3.2 or above
+* Bcrypt 1.0.2
+* Body-parser 1.15.2 or above
+* Connect-ensure-login 0.1.1 or above
+* Dotenv 2.0.0 or above
+* ejs 2.4.1 or above
+* Express 4.13.4 or above
+* Express-session 1.15.4 or above
+* Knex 0.11.10 or above
+* Knex-logger 0.1.0 or above
+* Morgan 1.7.0 or above
+* Node 5.10.x or above
+* NPM 3.8.x or above
+* Passport 0.3.2 or above
 
 ## Written By
-*Chris Liew
-*Mel Chua
-*Dahlia
-*Sam Kim 
+* Chris Liew
+* Mel Chua
+* Dahlia
+* Sam Kim 
