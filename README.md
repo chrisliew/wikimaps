@@ -4,11 +4,11 @@
 
 WikiMaps is a maps application that users can edit and contribute customized maps.  Like the name implies, it's like a Wikipedia for maps!  
 
-# Screenshots
+## Screenshots
 !["Main page"](https://github.com/chrisliew/wikimaps/blob/master/Untitled.png)
 !["Map List"](https://github.com/chrisliew/wikimaps/blob/master/map-list.png)
 
-# :round_pushpin: Getting Started :round_pushpin:
+## :round_pushpin: Getting Started :round_pushpin:
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
 2. Update the .env file with your correct local information
@@ -38,8 +38,8 @@ WikiMaps is a maps application that users can edit and contribute customized map
 *NPM 3.8.x or above
 *Passport 0.3.2 or above
 
-# Written By
-Chris Liew
-Mel Chua
-Dahlia
-Sam Kim 
+## Written By
+*Chris Liew
+*Mel Chua
+*Dahlia
+*Sam Kim 
