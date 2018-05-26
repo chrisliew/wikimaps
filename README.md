@@ -1,16 +1,14 @@
-# Node Skeleton
+# WikiMaps
 
-## Project Setup
+## :round_pushpin: Summary :round_pushpin:
 
-1. Create your own empty repo on GitHub
-2. Clone this repository (do not fork)
-  - Suggestion: When cloning, specify a different folder name that is relevant to your project
-3. Remove the git remote: `git remote rm origin`
-4. Add a remote for your origin: `git remote add origin <your github repo URL>`
-5. Push to the new origin: `git push -u origin master`
-6. Verify that the skeleton code now shows up in your repo on GitHub
+WikiMaps is a maps application that users can edit and contribute customized maps.  Like the name implies, it's like a Wikipedia for maps!  
 
-## Getting Started
+# Screenshots
+!["Main page"](https://github.com/chrisliew/wikimaps/blob/master/Untitled.png)
+!["Map List"](https://github.com/chrisliew/wikimaps/blob/master/map-list.png)
+
+# :round_pushpin: Getting Started :round_pushpin:
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
 2. Update the .env file with your correct local information
@@ -22,8 +20,26 @@
   - Check the seeds file to see what gets seeded in the DB
 7. Run the server: `npm run local`
 8. Visit `http://localhost:8080/`
+9. Wiki some maps
 
 ## Dependencies
 
-- Node 5.10.x or above
-- NPM 3.8.x or above
+*Bcrypt 1.0.2
+*Body-parser 1.15.2 or above
+*Connect-ensure-login 0.1.1 or above
+*Dotenv 2.0.0 or above
+*ejs 2.4.1 or above
+*Express 4.13.4 or above
+*Express-session 1.15.4 or above
+*Knex 0.11.10 or above
+*Knex-logger 0.1.0 or above
+*Morgan 1.7.0 or above
+*Node 5.10.x or above
+*NPM 3.8.x or above
+*Passport 0.3.2 or above
+
+# Written By
+Chris Liew
+Mel Chua
+Dahlia
+Sam Kim 
